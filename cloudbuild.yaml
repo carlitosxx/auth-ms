@@ -16,3 +16,5 @@ steps:
         "push",
         "southamerica-west1-docker.pkg.dev/lithe-camp-458508-d4/image-ms/auth-ms",
       ]
+options:
+  logging: CLOUD_LOGGING_ONLY
